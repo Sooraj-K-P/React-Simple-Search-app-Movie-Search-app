@@ -1,3 +1,8 @@
+This ia a simple react app which is used to search movies .
+I used omdbapi to get moviies API which is very simple to fetch movies . www.omdbapi.com/apikey.aspx
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
